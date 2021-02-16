@@ -1,4 +1,3 @@
-<img style="float: right;" src="assets/DSC_1308_site.jpg" width="256">
 # Audrey Wack  
 
   716-604-7944 | awack@bu.edu | [linkedin](https://linkedin.com/in/audreywack) | [website](http://audreywack.github.io)  
@@ -14,6 +13,7 @@
 > Minors: Visual Arts (CFA, focused on painting) and Chemistry  
 >  
 
+<img style="float: right;" src="assets/DSC_1308_site.jpg" width="256">
 ## SCHOLARSHIPS
   
 > * Romulus Scholarship, Western New York (2016)  
