@@ -2,7 +2,7 @@
 
 # Audrey Wack  
 
-awack@bu.edu | [linkedin](https://linkedin.com/in/audreywack) | [website](http://audreywack.github.io)  
+awack@bu.edu | [linkedin](https://linkedin.com/in/audreywack) | [website](http://audreywack.github.io) | [PDF](http://audreywack.github.io/docs/audrey_cv_021621.pdf)
   
 ## EDUCATION  
 
