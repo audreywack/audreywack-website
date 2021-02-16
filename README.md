@@ -1,4 +1,4 @@
-<img style="float: right;" src="DSC_1308_site.jpg" width="256">
+<img style="float: right;" src="assets/DSC_1308_site.jpg" width="256">
 # Audrey Wack  
 
   716-604-7944 | awack@bu.edu | [linkedin](https://linkedin.com/in/audreywack) | [website](http://audreywack.github.io)  
